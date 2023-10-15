@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TH_AI {
+module AI_Lab3 {
 }
